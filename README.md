@@ -22,3 +22,5 @@ Materiales Utilizados.
 -Cables o jumpers
 
 
+![WhatsApp Image 2025-09-07 at 3 29 24 PM](https://github.com/user-attachments/assets/de167f12-5352-4112-925f-7ed2ff729f89)
+
