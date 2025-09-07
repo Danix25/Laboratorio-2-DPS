@@ -9,3 +9,16 @@
 6. Aplicaciones biomédicas.
 
 # 1. Objetivos y metodología del experimento.
+# 2. Diagrama de flujo.
+# 3. Adquisición de la señal.
+La señal de electrooculografía (EOG).
+
+Materiales Utilizados.
+
+-Cables
+-Data acquisition (DAQ)
+-Generador de señales
+-Osciloscopio 
+-Cables o jumpers
+
+
