@@ -15,12 +15,13 @@ La señal de electrooculografía (EOG).
 
 Materiales Utilizados.
 
--Cables
--Data acquisition (DAQ)
--Generador de señales
--Osciloscopio 
--Cables o jumpers
+- Cables
+- Data acquisition (DAQ)
+- Generador de señales
+- Osciloscopio 
+- Cables o jumpers
 
+Se hizo el montaje del 
+<img src="https://github.com/user-attachments/assets/de167f12-5352-4112-925f-7ed2ff729f89" width="450"/>
 
-![WhatsApp Image 2025-09-07 at 3 29 24 PM](https://github.com/user-attachments/assets/de167f12-5352-4112-925f-7ed2ff729f89)
 
