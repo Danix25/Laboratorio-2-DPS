@@ -2,8 +2,8 @@
 # CONVOLUCIÓN, CORRELACIÓN Y TRANSFORMADA DE FOURIER
 # TABLA DE CONTENIDOS
 1. Objetivos y metodología del experimento.
-2. Diagramas de flujo
-3. 
+2. Diagramas de flujo.
+3. Adquisición de la señal.
 4. Análisis de resultados.
 5. Conclusiones.
 6. Aplicaciones biomédicas.
@@ -65,4 +65,12 @@ np.savetxt("senal.txt", senal)
  Autor Del Código: Carolina Corredor.
  
  Fecha: 2025-09-09.
-
+ # 4. Análisis de resultados.
+ # 5. Conclusiones.
+ # 6. Aplicaciones biomédicas.
+ 
+ El cálculo de valores estadísticos en el análisis de señales, es muy útil para su interpretación, ya que nos permite extraer información que facilita comprender su comportamiento y distribución. Esto se puede evidenciar en los siguientes casos vistos en este laboratorio:
+ - Convolución:Este tipo de operacion permite realizar los cálculos estadistícos filtrando el ruido presente en las señeles biomedicas,reslatar tambien componentes importantes y facilitar la visualizacion de la señal original para llegar a un analisis confiable.
+ - Correlación:En estas aplicacione estos calculos estadísticos nos permiten identificar pateones dentro de una señal,medir el grado de similitud entre diferentes registros tambien localizando los eventos repetittivos,siendo fundamental para el estudio de señales fisiológicas.
+ - Transformada de Fourier: Aquí, los calculos estadisticos permiten observar la distribución de la señal en el dominio de la frecuencia,lo que hace posible detectar los componentes periodiocos y analizar la variabilidad de esa señal en diferentes rangos espectrales.
+ - Electrooculografía (EOG): En este tipo de señal, los cálculos estadísticos permite analizar los movimientos oculares,cuantificando la activdad de los musculos extraoculares y detectar posibles alteraciones neurologicas o visuales,siendo de gran importancia en estas aplicaciones biomédicas.
