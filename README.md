@@ -2,15 +2,21 @@
 # CONVOLUCIÓN, CORRELACIÓN Y TRANSFORMADA DE FOURIER
 # TABLA DE CONTENIDOS
 1. Objetivos y metodología del experimento.
-2. Diagramas de flujo.
-3. Adquisición de la señal.
-4. Análisis de resultados.
-5. Conclusiones.
-6. Aplicaciones biomédicas.
+2. Marco conceptual.
+3. Diagramas de flujo.
+4. Adquisición de la señal.
+5. Análisis de resultados.
+6. Conclusiones.
+7. Aplicaciones biomédicas.
 
 # 1. Objetivos y metodología del experimento.
-# 2. Diagrama de flujo.
-# 3. Adquisición de la señal.
+La presente práctica tiene como objetivo comrpender el concpeto de convolución y como esta operación permite obtener la respuesta de un sistema discreto ante una entrada determinada. Además, se busca analizar el concepto de correlación y aplicar la transformada de Fourier como una herramienta de análisis en el dominio de la frecuencia.
+Lo anteriormente mencionado se hizo empleando técnicas como el cálculo de la convolución de una señal a partir de las identificaciones y códigos de los estudiantes. Además, se hizo el cálculo de la correlación cruzada y la transformada de fourier de una señal de Electrooculografía (EOG), capturada de un generador de señales biológicas para finalmente implementar algoritmos para mostrar los resultados obtenidos.
+
+# 2. Marco conceptual.
+- /electrooculografía/ 
+# 3. Diagrama de flujo.
+# 4. Adquisición de la señal.
 La señal de electrooculografía (EOG).
 
 Materiales Utilizados.
@@ -65,9 +71,9 @@ np.savetxt("senal.txt", senal)
  Autor Del Código: Carolina Corredor.
  
  Fecha: 2025-09-09.
- # 4. Análisis de resultados.
- # 5. Conclusiones.
- # 6. Aplicaciones biomédicas.
+ # 5. Análisis de resultados.
+ # 6. Conclusiones.
+ # 7. Aplicaciones biomédicas.
  
  El cálculo de valores estadísticos en el análisis de señales, es muy útil para su interpretación, ya que nos permite extraer información que facilita comprender su comportamiento y distribución. Esto se puede evidenciar en los siguientes casos vistos en este laboratorio:
  - Convolución:Este tipo de operacion permite realizar los cálculos estadistícos filtrando el ruido presente en las señeles biomedicas,reslatar tambien componentes importantes y facilitar la visualizacion de la señal original para llegar a un analisis confiable.
