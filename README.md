@@ -1,4 +1,6 @@
 # Laboratorio-2
+
+hola gente
 # CONVOLUCIÓN, CORRELACIÓN Y TRANSFORMADA DE FOURIER
 # TABLA DE CONTENIDOS
 1. Objetivos y metodología del experimento.
