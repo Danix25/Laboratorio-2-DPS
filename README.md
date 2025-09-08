@@ -84,10 +84,38 @@ np.savetxt("senal.txt", senal)
  
  Fecha: 2025-09-09.
  # 5. Análisis de resultados.
+ 
+- **Parte A:** En primera instancia, se recolectaron las identificaciones y códigos de los estudiantes, para luego ubicarlas en dos señales y calcular la convolución de ellas. Este calculo se hizo de la siguiente manera:
+  *1.* Su ubicaban los datos en una tabla (identificación en las filas y código en la columna).
+  *2.* Se multiplicaban los datos de la fila por cada columna ( los digitos de la identificación se multiplicaban con el primero digito del código; ej: 1,0,3,5,6 por 5)
+  *3.* Se hace la suma de las diagonales de los resultados de las multiplicaciones.
+  *4.* El resultado de cada suma es la secuencia resultante de la convolución.
+
+  Esto se hizo para cada estudiante y posterior a ello se graficó cada secuancia, correspondiente a la señal resultante, en las que obtuvieron las siguientes gráficas:
+
+Resultados Daniel:
+
+Y[n]: [5, 6, 5, 21, 35, 46, 77, 78, 86, 117, 113, 72, 63, 95, 18, 0]
+
+  <img width="542" height="329" alt="image" src="https://github.com/user-attachments/assets/e4425ab7-6803-4558-a8b4-c0675e3719da" />
+
+Resultados Sara:
+
+Y[n]: [5, 6, 35, 72, 53, 41, 74, 150, 134, 103, 92, 67, 88, 81, 82, 9]
+
+<img width="585" height="326" alt="image" src="https://github.com/user-attachments/assets/5f555a78-c0e1-4d5e-a616-4b5af4b43dc0" />
+
+Resultados Paola:
+
+Y[n]: [5, 6, 11, 26, 40, 72, 55, 90, 124, 180, 172, 94, 96, 110, 163, 114, 48]
+
+<img width="670" height="324" alt="image" src="https://github.com/user-attachments/assets/ffddc16a-f308-4e3b-ad6a-b378f5d96512" />
+
+- **Parte B:**
  # 6. Conclusiones.
  # 7. Aplicaciones biomédicas.
  
- El cálculo de valores estadísticos en el análisis de señales, es muy útil para su interpretación, ya que nos permite extraer información que facilita comprender su comportamiento y distribución. Esto se puede evidenciar en los siguientes casos vistos en este laboratorio:
+ El cálculo de valores estadísticos en el análisis de señ-ales, es muy útil para su interpretación, ya que nos permite extraer información que facilita comprender su comportamiento y distribución. Esto se puede evidenciar en los siguientes casos vistos en este laboratorio:
  - Convolución:Este tipo de operacion permite realizar los cálculos estadistícos filtrando el ruido presente en las señeles biomedicas,reslatar tambien componentes importantes y facilitar la visualizacion de la señal original para llegar a un analisis confiable.
  - Correlación:En estas aplicacione estos calculos estadísticos nos permiten identificar pateones dentro de una señal,medir el grado de similitud entre diferentes registros tambien localizando los eventos repetittivos,siendo fundamental para el estudio de señales fisiológicas.
  - Transformada de Fourier: Aquí, los calculos estadisticos permiten observar la distribución de la señal en el dominio de la frecuencia,lo que hace posible detectar los componentes periodiocos y analizar la variabilidad de esa señal en diferentes rangos espectrales.
