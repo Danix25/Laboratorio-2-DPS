@@ -27,7 +27,6 @@ Lo anteriormente mencionado se hizo empleando técnicas como el cálculo de la c
 
 **Transformada de Fourier:** Es una herramienta de gran relevancia dentro del procesamiento digital de señales, en el cual se descompone una señal en sus componentes sinusoidales de diferentes frecuencias, es decri, permite visualizar una señal que está en el dominio del tiempo al dominio de la frecuencia, siendo muy importante para el análisis y estudio de diversas señales.
 
-- /electrooculografía/ 
 # 3. Diagrama de flujo.
 # 4. Adquisición de la señal.
 La señal de electrooculografía (EOG).
