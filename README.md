@@ -14,6 +14,19 @@ La presente práctica tiene como objetivo comrpender el concpeto de convolución
 Lo anteriormente mencionado se hizo empleando técnicas como el cálculo de la convolución de una señal a partir de las identificaciones y códigos de los estudiantes. Además, se hizo el cálculo de la correlación cruzada y la transformada de fourier de una señal de Electrooculografía (EOG), capturada de un generador de señales biológicas para finalmente implementar algoritmos para mostrar los resultados obtenidos.
 
 # 2. Marco conceptual.
+
+**Electrooculografía:** Es una prueba electrofisiológica para valoral el estado funcional de la capas de retina. Aquí se registran las variaciones electricas que se porudcen en el ojo al realizar un movimiento ocular. Esto nos permite confirmar diagnósticos para posibles enfermedades de la retina.
+
+<img width="407" height="750" alt="image" src="https://github.com/user-attachments/assets/b71a31f4-2d16-4daf-8f88-36785958f496" />
+
+**Convolución:** Se refiere a una operación fundamental dentro del procesamiento digital de señales para determinar la salida de un sistema lineal invariante en el tiempo, de acuerdo a una señal de entrada y una respuesta impulso de un sistema.
+
+<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/957bba5a-f4f4-4630-8ad6-5f9c62aa282a" />
+
+**Correlación cruzada:** Es una herramienta que nos permite medir la similitud entre dos señales en función de un desplazamiento temporal, esto para encontrar un patrón conocido dentro de una señal más larga o identificar tendencias y/o relaciones.
+
+**Transformada de Fourier:** Es una herramienta de gran relevancia dentro del procesamiento digital de señales, en el cual se descompone una señal en sus componentes sinusoidales de diferentes frecuencias, es decri, permite visualizar una señal que está en el dominio del tiempo al dominio de la frecuencia, siendo muy importante para el análisis y estudio de diversas señales.
+
 - /electrooculografía/ 
 # 3. Diagrama de flujo.
 # 4. Adquisición de la señal.
