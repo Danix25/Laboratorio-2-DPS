@@ -17,7 +17,7 @@ Lo anteriormente mencionado se hizo empleando técnicas como el cálculo de la c
 
 **Electrooculografía:** Es una prueba electrofisiológica para valoral el estado funcional de la capas de retina. Aquí se registran las variaciones electricas que se porudcen en el ojo al realizar un movimiento ocular. Esto nos permite confirmar diagnósticos para posibles enfermedades de la retina.
 
-<img width="407" height="750" alt="image" src="https://github.com/user-attachments/assets/b71a31f4-2d16-4daf-8f88-36785958f496" />
+<img width="407" height="750" alt="image" src="https://github.com/user-attachments/assets/b71a31f4-2d16-4daf-8f88-36785958f496" width="100" />
 
 **Convolución:** Se refiere a una operación fundamental dentro del procesamiento digital de señales para determinar la salida de un sistema lineal invariante en el tiempo, de acuerdo a una señal de entrada y una respuesta impulso de un sistema.
 
@@ -120,6 +120,9 @@ Y[n]: [5, 6, 11, 26, 40, 72, 55, 90, 124, 180, 172, 94, 96, 110, 163, 114, 48]
 Para este punto, se definieron las siguientes señales:
 
 <img width="477" height="54" alt="image" src="https://github.com/user-attachments/assets/ec7c6214-2c0e-43c5-a666-2ab5e6afac2e" />
+
+Y posteriormente se graficaron, obteniendo las siguientes gráficas:
+
 
 Con base a estas, se hizo el cálculo para la correlación cruzada haciendo uso de la siguiente ecuación:
 
