@@ -21,7 +21,7 @@ Lo anteriormente mencionado se hizo empleando técnicas como el cálculo de la c
 
 **Convolución:** Se refiere a una operación fundamental dentro del procesamiento digital de señales para determinar la salida de un sistema lineal invariante en el tiempo, de acuerdo a una señal de entrada y una respuesta impulso de un sistema.
 
-<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/957bba5a-f4f4-4630-8ad6-5f9c62aa282a" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/957bba5a-f4f4-4630-8ad6-5f9c62aa282a" />
 
 **Correlación cruzada:** Es una herramienta que nos permite medir la similitud entre dos señales en función de un desplazamiento temporal, esto para encontrar un patrón conocido dentro de una señal más larga o identificar tendencias y/o relaciones.
 
@@ -101,25 +101,25 @@ Resultados *Daniel*:
 
 Y[n]: [5, 6, 5, 21, 35, 46, 77, 78, 86, 117, 113, 72, 63, 95, 18, 0]
 
-  <img width="542" height="329" alt="image" src="https://github.com/user-attachments/assets/e4425ab7-6803-4558-a8b4-c0675e3719da" />
+  <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/e4425ab7-6803-4558-a8b4-c0675e3719da" />
 
 Resultados *Sara*:
 
 Y[n]: [5, 6, 35, 72, 53, 41, 74, 150, 134, 103, 92, 67, 88, 81, 82, 9]
 
-<img width="585" height="326" alt="image" src="https://github.com/user-attachments/assets/5f555a78-c0e1-4d5e-a616-4b5af4b43dc0" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/5f555a78-c0e1-4d5e-a616-4b5af4b43dc0" />
 
 Resultados *Paola*:
 
 Y[n]: [5, 6, 11, 26, 40, 72, 55, 90, 124, 180, 172, 94, 96, 110, 163, 114, 48]
 
-<img width="670" height="324" alt="image" src="https://github.com/user-attachments/assets/ffddc16a-f308-4e3b-ad6a-b378f5d96512" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/ffddc16a-f308-4e3b-ad6a-b378f5d96512" />
 
 - **Parte B:**
 
 Para este punto, se definieron las siguientes señales:
 
-<img width="477" height="54" alt="image" src="https://github.com/user-attachments/assets/ec7c6214-2c0e-43c5-a666-2ab5e6afac2e" />
+<img width="300" height="54" alt="image" src="https://github.com/user-attachments/assets/ec7c6214-2c0e-43c5-a666-2ab5e6afac2e" />
 
 Y posteriormente se graficaron, obteniendo las siguientes gráficas:
 
