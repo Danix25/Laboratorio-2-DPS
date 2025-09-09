@@ -86,9 +86,13 @@ np.savetxt("senal.txt", senal)
  # 5. Análisis de resultados.
  
 - **Parte A:** En primera instancia, se recolectaron las identificaciones y códigos de los estudiantes, para luego ubicarlas en dos señales y calcular la convolución de ellas. Este calculo se hizo de la siguiente manera:
+
   *1.* Su ubicaban los datos en una tabla (identificación en las filas y código en la columna).
+
   *2.* Se multiplicaban los datos de la fila por cada columna ( los digitos de la identificación se multiplicaban con el primero digito del código; ej: 1,0,3,5,6 por 5)
+
   *3.* Se hace la suma de las diagonales de los resultados de las multiplicaciones.
+
   *4.* El resultado de cada suma es la secuencia resultante de la convolución.
 
   Esto se hizo para cada estudiante y posterior a ello se graficó cada secuancia, correspondiente a la señal resultante, en las que obtuvieron las siguientes gráficas:
