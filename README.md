@@ -21,7 +21,7 @@ Lo anteriormente mencionado se hizo empleando técnicas como el cálculo de la c
 
 **Convolución:** Se refiere a una operación fundamental dentro del procesamiento digital de señales para determinar la salida de un sistema lineal invariante en el tiempo, de acuerdo a una señal de entrada y una respuesta impulso de un sistema.
 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/957bba5a-f4f4-4630-8ad6-5f9c62aa282a" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/957bba5a-f4f4-4630-8ad6-5f9c62aa282a" />
 
 **Correlación cruzada:** Es una herramienta que nos permite medir la similitud entre dos señales en función de un desplazamiento temporal, esto para encontrar un patrón conocido dentro de una señal más larga o identificar tendencias y/o relaciones.
 
