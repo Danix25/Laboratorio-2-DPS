@@ -31,11 +31,11 @@ Lo anteriormente mencionado se hizo empleando técnicas como el cálculo de la c
 
 El siguiente diagrama de flujo muestra el procedimiento utilizado para la adquisición de datos mediante el sistema DAQ, basado en el código desarrollado por la profesora Carolina Corredor.
 
-<img width="310" height="1300" alt="diagramaDAQ" src="https://github.com/user-attachments/assets/03a2c92e-40e8-45d5-a1d4-52178245be13" />
+<img width="105" height="650" alt="diagramaDAQ" src="https://github.com/user-attachments/assets/03a2c92e-40e8-45d5-a1d4-52178245be13" />
 
 El siguiente diagrama de flujo ilustra el procedimiento implementado para el procesamiento de la señal adquirida, incluyendo el cálculo de estadísticas descriptivas en tiempo y frecuencia, así como el análisis mediante la Transformada de Fourier.
 
-<img width="920" height="1920" alt="Diagrama CODIGO" src="https://github.com/user-attachments/assets/80d9a732-550a-4526-9444-89666129a101" />
+<img width="460" height="900" alt="Diagrama CODIGO" src="https://github.com/user-attachments/assets/80d9a732-550a-4526-9444-89666129a101" />
 
 
 # 4. Adquisición de la señal.
