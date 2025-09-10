@@ -200,21 +200,21 @@ Este laboratorio permitió integrar la teoría con la práctica en señales biom
 
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/da9a97db-29cf-40f3-9c69-198dc72ac3eb" />
 
-<img width="601" height="524" alt="image" src="https://github.com/user-attachments/assets/28266f06-1acd-48a5-a3b3-16964e9637f5" />
+<img width="501" height="424" alt="image" src="https://github.com/user-attachments/assets/28266f06-1acd-48a5-a3b3-16964e9637f5" />
 
-<img width="647" height="512" alt="image" src="https://github.com/user-attachments/assets/cde005d1-111e-418c-85dd-e7d808eef29c" />
+<img width="547" height="412" alt="image" src="https://github.com/user-attachments/assets/cde005d1-111e-418c-85dd-e7d808eef29c" />
 
-<img width="664" height="513" alt="image" src="https://github.com/user-attachments/assets/3c59713a-6acd-43ff-8a38-ad8caa4f3db6" />
+<img width="564" height="413" alt="image" src="https://github.com/user-attachments/assets/3c59713a-6acd-43ff-8a38-ad8caa4f3db6" />
 
-<img width="600" height="529" alt="image" src="https://github.com/user-attachments/assets/15fde09c-f719-4710-853d-77b2b107af9e" />
+<img width="500" height="429" alt="image" src="https://github.com/user-attachments/assets/15fde09c-f719-4710-853d-77b2b107af9e" />
 
-<img width="669" height="382" alt="image" src="https://github.com/user-attachments/assets/b9e85509-2200-4b20-a5f8-c6588dadfe08" />
+<img width="569" height="282" alt="image" src="https://github.com/user-attachments/assets/b9e85509-2200-4b20-a5f8-c6588dadfe08" />
 
-<img width="727" height="446" alt="image" src="https://github.com/user-attachments/assets/2c86fd7f-3b42-45f8-9e15-1f0d14357d44" />
+<img width="627" height="346" alt="image" src="https://github.com/user-attachments/assets/2c86fd7f-3b42-45f8-9e15-1f0d14357d44" />
 
-<img width="647" height="389" alt="image" src="https://github.com/user-attachments/assets/514f3a5f-75ef-424b-a42c-c124180e2f1b" />
+<img width="547" height="289" alt="image" src="https://github.com/user-attachments/assets/514f3a5f-75ef-424b-a42c-c124180e2f1b" />
 
-<img width="678" height="324" alt="image" src="https://github.com/user-attachments/assets/c9fd73d1-0005-47bd-915a-18f535729637" />
+<img width="578" height="224" alt="image" src="https://github.com/user-attachments/assets/c9fd73d1-0005-47bd-915a-18f535729637" />
 
 
 
