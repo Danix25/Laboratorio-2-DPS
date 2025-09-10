@@ -202,19 +202,19 @@ Este laboratorio permitió integrar la teoría con la práctica en señales biom
 
 <img width="401" height="324" alt="image" src="https://github.com/user-attachments/assets/28266f06-1acd-48a5-a3b3-16964e9637f5" />
 
-<img width="447" height="312" alt="image" src="https://github.com/user-attachments/assets/cde005d1-111e-418c-85dd-e7d808eef29c" />
+<img width="347" height="212" alt="image" src="https://github.com/user-attachments/assets/cde005d1-111e-418c-85dd-e7d808eef29c" />
 
-<img width="464" height="313" alt="image" src="https://github.com/user-attachments/assets/3c59713a-6acd-43ff-8a38-ad8caa4f3db6" />
+<img width="364" height="213" alt="image" src="https://github.com/user-attachments/assets/3c59713a-6acd-43ff-8a38-ad8caa4f3db6" />
 
-<img width="400" height="329" alt="image" src="https://github.com/user-attachments/assets/15fde09c-f719-4710-853d-77b2b107af9e" />
+<img width="300" height="229" alt="image" src="https://github.com/user-attachments/assets/15fde09c-f719-4710-853d-77b2b107af9e" />
 
-<img width="469" height="182" alt="image" src="https://github.com/user-attachments/assets/b9e85509-2200-4b20-a5f8-c6588dadfe08" />
+<img width="369" height="182" alt="image" src="https://github.com/user-attachments/assets/b9e85509-2200-4b20-a5f8-c6588dadfe08" />
 
 <img width="427" height="246" alt="image" src="https://github.com/user-attachments/assets/2c86fd7f-3b42-45f8-9e15-1f0d14357d44" />
 
 <img width="447" height="189" alt="image" src="https://github.com/user-attachments/assets/514f3a5f-75ef-424b-a42c-c124180e2f1b" />
 
-<img width="178" height="124" alt="image" src="https://github.com/user-attachments/assets/c9fd73d1-0005-47bd-915a-18f535729637" />
+<img width="200" height="1250 alt="image" src="https://github.com/user-attachments/assets/c9fd73d1-0005-47bd-915a-18f535729637" />
 
 
 
