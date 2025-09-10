@@ -28,6 +28,16 @@ Lo anteriormente mencionado se hizo empleando técnicas como el cálculo de la c
 **Transformada de Fourier:** Es una herramienta de gran relevancia dentro del procesamiento digital de señales, en el cual se descompone una señal en sus componentes sinusoidales de diferentes frecuencias, es decri, permite visualizar una señal que está en el dominio del tiempo al dominio de la frecuencia, siendo muy importante para el análisis y estudio de diversas señales.
 
 # 3. Diagrama de flujo.
+
+El siguiente diagrama de flujo muestra el procedimiento utilizado para la adquisición de datos mediante el sistema DAQ, basado en el código desarrollado por la profesora Carolina Corredor.
+
+<img width="310" height="1300" alt="diagramaDAQ" src="https://github.com/user-attachments/assets/03a2c92e-40e8-45d5-a1d4-52178245be13" />
+
+El siguiente diagrama de flujo ilustra el procedimiento implementado para el procesamiento de la señal adquirida, incluyendo el cálculo de estadísticas descriptivas en tiempo y frecuencia, así como el análisis mediante la Transformada de Fourier.
+
+<img width="920" height="1920" alt="Diagrama CODIGO" src="https://github.com/user-attachments/assets/80d9a732-550a-4526-9444-89666129a101" />
+
+
 # 4. Adquisición de la señal.
 La señal de electrooculografía (EOG).
 
@@ -167,6 +177,15 @@ Con base a estos resultados, se puede percibir una simetría en la señal alrede
 Finalmente, se hizo el cálculo de los estadísticos en frecuencia, donde se obtuvo la frecuencia media (-0.4555), frecuencia mediana (962.2) y desviación estandar (46.1158), lo que nos dice que la señal está centrada en bajas frecuencias. Sin embargo, con la frecuencia mediana, al tener un valor tan alto, se puede asumir como un error de cálculo, hay una presencia de ruido o artefacto que pueda "empujar" la distribución de la mediana, ya que para estas señales la energía está en bajas frecuencias. Esto mismo sucede con la desviación estnadar, ya que significa que la señal no está concentrada en una sola banda, sino que tiene dispersión hacia frecuencias medias o altas.
 
  # 6. Conclusiones.
+
+ A través del cálculo manual y gráfico de las convoluciones entre las señales definidas con identificaciones y códigos, se entendió cómo esta operación matemática permite modelar la respuesta de un sistema discreto ante diferentes entradas. Los resultados obtenidos muestran cómo la convolución combina la información de ambas señales.
+
+La adquisición de la señal de electrooculografía con el DAQ permitió ver su forma de onda y obtener parámetros estadísticos relevantes (media: 0.1591, desviación estándar: 0.3799, máximo: 1.4847, mínimo: -1.3799).
+
+La señal de Electrooculografía (EOG) adquirida con una frecuencia de muestreo de 1000 Hz y duración de 10 segundos fue caracterizada estadísticamente en el dominio del tiempo con una media de 0.1591, mediana de 0.09215 y desviación estándar de 0.3799, indicadores que muestran que la señal está bien tomada.
+
+Este laboratorio permitió integrar la teoría con la práctica en señales biomédicas. La convolución mostró cómo se obtiene la salida de un sistema, la correlación ayudó a medir la similitud temporal entre señales y la transformada de Fourier permitió descomponer y estudiar la distribución espectral.
+
  # 7. Aplicaciones biomédicas.
  
  El cálculo de valores estadísticos en el análisis de señales, es muy útil para su interpretación, ya que nos permite extraer información que facilita comprender su comportamiento y distribución. Esto se puede evidenciar en los siguientes casos vistos en este laboratorio:
