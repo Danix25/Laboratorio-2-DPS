@@ -154,7 +154,17 @@ Para este punto, inicialmente se capturó una señal EOG con ayuda de un generad
 
 Con una frecuencia de Nyquist de 500 Hz
 Posterior a ello se determinó una nueva frecuencia de Nyquist con 4 veces esta frecuencia, siendo de 2000 Hz.
-Además, se caracterizó la señal obteniendo la media (0.1591), mediana (0.09215), desviación estandar (0.3799), el máximo (1.4847) y mínimo (-1.3799). Estos resultados nos indican 
+Además, se caracterizó la señal obteniendo la media (0.1591), mediana (0.09215), desviación estandar (0.3799), el máximo (1.4847) y mínimo (-1.3799). Estos resultados nos indican que la señal está bien capturada, ya que no hay una saturación y los eventos son claros. Además, la desviación estándar frente a los picos son eventos esporádicos dominantes, siendo normal para una señal EOG. Sin embargo, la media al ser ligeramente positiva, indica que se deberia corregir el offset DC para prevenir errores en un análisis más detallado. 
+
+Además de esto, se clasificó la señal, siendo esta como una señal aleatoria (al ser una señal biológica, puede tener fluctuaciones o ser impredecible), digital (Ya que se muestra en ejes discretos) y cuasí-periodica (Muestra oscilaciones repetitivas, pero no idénticas siendo caracteristico en señales biológicas).
+
+Luego de la caracterización, para hacer un análisis más detallado, se aplicó la transformada de Fourier para conocer la densidad espectral y el comportamiento de la señal en el dominio de la frecuencia, en lo que obtuvimos las siguientes gráficas:
+
+<img width="672" height="327" alt="image" src="https://github.com/user-attachments/assets/3f170f78-20db-4295-b1a4-e33879c775c7" />
+
+Con base a estos resultados, se puede percibir una simetría en la señal alrededor de 0 Hz, con un ancho de banda observable, ya que entre más se aleja de los 0 Hz, disminuye la energía util en la señal y esto es normal para las señales EOG, ya que la energía util de estas está por debajo de los 30 o 50 Hz. Lo mismo sucede con la densidad espectral, ya que más alla de 100 Hz aproximadamente, la densidad espectral es muy baja. Además de esto, abordando una interpretación más especifica con las señales EOG convencionales, la señal capturada refleja un EOG típico, la cual se caracteriza por ser de predominante baja frecuencia.
+
+Finalmente, se hizo el cálculo de los estadísticos en frecuencia, donde se obtuvo la frecuencia media (-0.4555), frecuencia mediana (962.2) y desviación estandar (46.1158), lo que nos dice que la señal está centrada en bajas frecuencias. Sin embargo, con la frecuencia mediana, al tener un valor tan alto, se puede asumir como un error de cálculo, hay una presencia de ruido o artefacto que pueda "empujar" la distribución de la mediana, ya que para estas señales la energía está en bajas frecuencias. Esto mismo sucede con la desviación estnadar, ya que significa que la señal no está concentrada en una sola banda, sino que tiene dispersión hacia frecuencias medias o altas.
 
  # 6. Conclusiones.
  # 7. Aplicaciones biomédicas.
