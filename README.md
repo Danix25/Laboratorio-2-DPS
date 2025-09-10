@@ -123,11 +123,26 @@ Para este punto, se definieron las siguientes señales:
 
 Y posteriormente se graficaron, obteniendo las siguientes gráficas:
 
+<img width="606" height="329" alt="image" src="https://github.com/user-attachments/assets/0af78c0a-66d6-4867-8b74-58cc10d56986" />
+
+<img width="601" height="329" alt="image" src="https://github.com/user-attachments/assets/b76a50b8-674e-4f12-b0d2-1dfc48f4a81f" />
 
 Con base a estas, se hizo el cálculo para la correlación cruzada haciendo uso de la siguiente ecuación:
 
+<img width="318" height="96" alt="image" src="https://github.com/user-attachments/assets/62c963ca-0109-4a40-a511-6c6a4977807e" />
 
+Teniendo en cuenta que **K=N-1**, siendo 8 y según la teoría, la correlación cruzada se usa para los valores positivos y negativos, reemplazando estos en la ecuación inicial. Por eso, la correlación cruzada se da entre -8 a +8. Esto resulta en la siguiente secuencia:
 
+[-2.44929360e-16 -7.07106781e-01 -1.50000000e+00 -1.41421356e+00 -1.66533454e-16  2.12132034e+00  3.50000000e+00  2.82842712e+00
+8.81375476e-17 -2.82842712e+00 -3.50000000e+00 -2.12132034e+00  3.33066907e-16  1.41421356e+00  1.50000000e+00  7.07106781e-01  0.00000000e+00]    
+
+Estos valores se reflejan en la siguiente gráfica:
+
+<img width="603" height="329" alt="image" src="https://github.com/user-attachments/assets/b292bf06-3163-4205-866e-0565fbe99202" />
+
+En esta gráfica se observa que el pico más alto está cuando *k*=-2, con un valor de 3.5. Por otro lado, el valor mínimo se ubica cuando *k*=2, también con un valor de 3.5, lo que se puede interpretar que la señal X2[n] está adelantada en 2 muestras respecto a X1[n]. Esto quiere decir que si desplazamos la primera señal dos pasos a la derecha, habrá una mejor similitud con la segunda señal.
+
+Esto refleja la importancia del cálculo de la correlación cruzada en señales, ya que nos permite confirmar de una manera más precisa la similitud estructural entre ellas. Además, aplicar este tipo de técnicas resulta util para conocer la sincronización entre señales, reconocer patrones en ellas y así analizar de una forma más precisa y efectiva la similitud entre señales.
 
 - **Parte C:**
 
@@ -135,7 +150,7 @@ Con base a estas, se hizo el cálculo para la correlación cruzada haciendo uso 
  # 6. Conclusiones.
  # 7. Aplicaciones biomédicas.
  
- El cálculo de valores estadísticos en el análisis de señ-ales, es muy útil para su interpretación, ya que nos permite extraer información que facilita comprender su comportamiento y distribución. Esto se puede evidenciar en los siguientes casos vistos en este laboratorio:
+ El cálculo de valores estadísticos en el análisis de señales, es muy útil para su interpretación, ya que nos permite extraer información que facilita comprender su comportamiento y distribución. Esto se puede evidenciar en los siguientes casos vistos en este laboratorio:
  - Convolución:Este tipo de operacion permite realizar los cálculos estadistícos filtrando el ruido presente en las señeles biomedicas,reslatar tambien componentes importantes y facilitar la visualizacion de la señal original para llegar a un analisis confiable.
  - Correlación:En estas aplicacione estos calculos estadísticos nos permiten identificar pateones dentro de una señal,medir el grado de similitud entre diferentes registros tambien localizando los eventos repetittivos,siendo fundamental para el estudio de señales fisiológicas.
  - Transformada de Fourier: Aquí, los calculos estadisticos permiten observar la distribución de la señal en el dominio de la frecuencia,lo que hace posible detectar los componentes periodiocos y analizar la variabilidad de esa señal en diferentes rangos espectrales.
