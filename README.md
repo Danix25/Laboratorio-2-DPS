@@ -85,7 +85,9 @@ np.savetxt("senal.txt", senal)
  Fecha: 2025-09-09.
  # 5. Análisis de resultados.
  
-- **Parte A:** En primera instancia, se recolectaron las identificaciones y códigos de los estudiantes, para luego ubicarlas en dos señales y calcular la convolución de ellas. Este calculo se hizo de la siguiente manera:
+- **Parte A.**
+
+En primera instancia, se recolectaron las identificaciones y códigos de los estudiantes, para luego ubicarlas en dos señales y calcular la convolución de ellas. Este calculo se hizo de la siguiente manera:
 
   *1.* Su ubicaban los datos en una tabla (identificación en las filas y código en la columna).
 
@@ -115,7 +117,7 @@ Y[n]: [5, 6, 11, 26, 40, 72, 55, 90, 124, 180, 172, 94, 96, 110, 163, 114, 48]
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/ffddc16a-f308-4e3b-ad6a-b378f5d96512" />
 
-- **Parte B:**
+- **Parte B.**
 
 Para este punto, se definieron las siguientes señales:
 
@@ -144,8 +146,15 @@ En esta gráfica se observa que el pico más alto está cuando *k*=-2, con un va
 
 Esto refleja la importancia del cálculo de la correlación cruzada en señales, ya que nos permite confirmar de una manera más precisa la similitud estructural entre ellas. Además, aplicar este tipo de técnicas resulta util para conocer la sincronización entre señales, reconocer patrones en ellas y así analizar de una forma más precisa y efectiva la similitud entre señales.
 
-- **Parte C:**
+- **Parte C.**
 
+Para este punto, inicialmente se capturó una señal EOG con ayuda de un generador de señales fisiológicas, obteniendo lo siguiente:
+
+<img width="725" height="330" alt="image" src="https://github.com/user-attachments/assets/88b59f8e-a036-45f9-9ea2-e620ec9d9f0e" />
+
+Con una frecuencia de Nyquist de 500 Hz
+Posterior a ello se determinó una nueva frecuencia de Nyquist con 4 veces esta frecuencia, siendo de 2000 Hz.
+Además, se caracterizó la señal obteniendo la media (0.1591), mediana (0.09215), desviación estandar (0.3799), el máximo (1.4847) y mínimo (-1.3799). Estos resultados nos indican 
 
  # 6. Conclusiones.
  # 7. Aplicaciones biomédicas.
