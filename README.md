@@ -214,7 +214,7 @@ Este laboratorio permitió integrar la teoría con la práctica en señales biom
 
 <img width="447" height="189" alt="image" src="https://github.com/user-attachments/assets/514f3a5f-75ef-424b-a42c-c124180e2f1b" />
 
-<img width="200" height="150 alt="image" src="https://github.com/user-attachments/assets/c9fd73d1-0005-47bd-915a-18f535729637" />
+<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/c9fd73d1-0005-47bd-915a-18f535729637" />
 
 
 
