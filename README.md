@@ -29,6 +29,26 @@ Lo anteriormente mencionado se hizo empleando técnicas como el cálculo de la c
 
 # 3. Diagrama de flujo.
 
+# 3.1. Diagrama de flujo – Parte A: Convolución manual
+
+En la Parte A se implementó un algoritmo para calcular la convolución discreta entre dos secuencias: el número de identificación (ID) y el código del estudiante. El procedimiento se representa en el  siguiente diagrama de flujo:
+
+<img width="429" height="651" alt="partea" src="https://github.com/user-attachments/assets/e4fe0a45-6480-40c2-9266-db012a02801f" />
+
+
+# 3.2 Diagrama de flujo – Parte B: Correlación cruzada
+
+En la Parte B se desarrolló un procedimiento para calcular la correlación cruzada entre dos señales discretas, X1[n] y X2[n].  El procedimiento se representa en el  siguiente diagrama de flujo:
+
+<img width="386" height="768" alt="parteb" src="https://github.com/user-attachments/assets/a42736a3-3f9b-4b96-9cc5-90e54496fb5e" />
+
+
+# 3.3 Diagrama de flujo – Parte C: Transformada de Fourier en señal EOG
+En la Parte C se procesó una señal de Electrooculografía (EOG) previamente adquirida y almacenada en un archivo de texto.
+
+<img width="599" height="768" alt="partec" src="https://github.com/user-attachments/assets/ff33ddf7-bc58-41dd-be93-ff7feda34ac8" />
+
+
 El siguiente diagrama de flujo muestra el procedimiento utilizado para la adquisición de datos mediante el sistema DAQ, basado en el código desarrollado por la profesora Carolina Corredor.
 
 <img width="300" height="1000" alt="diagramaDAQ" src="https://github.com/user-attachments/assets/03a2c92e-40e8-45d5-a1d4-52178245be13" />
@@ -36,7 +56,6 @@ El siguiente diagrama de flujo muestra el procedimiento utilizado para la adquis
 El siguiente diagrama de flujo ilustra el procedimiento implementado para el procesamiento de la señal adquirida, incluyendo el cálculo de estadísticas descriptivas en tiempo y frecuencia, así como el análisis mediante la Transformada de Fourier.
 
 <img width="460" height="900" alt="Diagrama CODIGO" src="https://github.com/user-attachments/assets/80d9a732-550a-4526-9444-89666129a101" />
-
 
 # 4. Adquisición de la señal.
 La señal de electrooculografía (EOG).
