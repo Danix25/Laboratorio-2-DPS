@@ -17,7 +17,7 @@ Lo anteriormente mencionado se hizo empleando técnicas como el cálculo de la c
 
 **Electrooculografía:** Es una prueba electrofisiológica para valoral el estado funcional de la capas de retina. Aquí se registran las variaciones electricas que se porudcen en el ojo al realizar un movimiento ocular. Esto nos permite confirmar diagnósticos para posibles enfermedades de la retina.
 
-<img width="600" height="1000" alt="image" src="https://github.com/user-attachments/assets/b71a31f4-2d16-4daf-8f88-36785958f496" />
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/b71a31f4-2d16-4daf-8f88-36785958f496" />
 
 **Convolución:** Se refiere a una operación fundamental dentro del procesamiento digital de señales para determinar la salida de un sistema lineal invariante en el tiempo, de acuerdo a una señal de entrada y una respuesta impulso de un sistema.
 
@@ -31,7 +31,7 @@ Lo anteriormente mencionado se hizo empleando técnicas como el cálculo de la c
 
 El siguiente diagrama de flujo muestra el procedimiento utilizado para la adquisición de datos mediante el sistema DAQ, basado en el código desarrollado por la profesora Carolina Corredor.
 
-<img width="105" height="650" alt="diagramaDAQ" src="https://github.com/user-attachments/assets/03a2c92e-40e8-45d5-a1d4-52178245be13" />
+<img width="300" height="1000" alt="diagramaDAQ" src="https://github.com/user-attachments/assets/03a2c92e-40e8-45d5-a1d4-52178245be13" />
 
 El siguiente diagrama de flujo ilustra el procedimiento implementado para el procesamiento de la señal adquirida, incluyendo el cálculo de estadísticas descriptivas en tiempo y frecuencia, así como el análisis mediante la Transformada de Fourier.
 
